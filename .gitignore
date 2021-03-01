@@ -1,0 +1,11 @@
+*~
+*.pyc
+*.npy
+.idea
+*.pth
+*.wav
+*.txt
+*.json
+*.7z
+__pycache__
+kaldi_vosk
